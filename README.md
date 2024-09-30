@@ -115,5 +115,4 @@ Congratulations! You have successfully Dockerized a simple Node.js application. 
 - Building and running a Docker container to host your application.
 
 ---
-
-In future lessons, you can explore more advanced Docker features, such as Docker Compose and multi-container applications. Happy containerizing!
+Enjoy Learning With us Folks !
